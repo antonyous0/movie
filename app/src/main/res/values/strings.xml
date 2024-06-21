@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">movie_app</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">password</string>
+    <string name="register">Register</string>
+    <string name="click_to_login">Click to login</string>
+    <string name="click_to_register">Click to register</string>
+    <string name="back">back</string>
+    <string name="welcome">Welcome</string>
+    <string name="register_now">Register Now</string>
+    <string name="edit">Edit</string>
+    <string name="Edit">edit</string>
+    <string name="profile">Profile</string>
+    <string name="home">home</string>
+    <string name="Home">Home</string>
+</resources>

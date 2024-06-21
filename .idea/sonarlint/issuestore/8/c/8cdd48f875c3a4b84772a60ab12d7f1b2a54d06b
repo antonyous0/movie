@@ -1,0 +1,22 @@
+
+
+java:S1319L"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(çÁÆˆ8‹ÙÏüø1
+‡
+java:S1319P"eThe type of "genre" should be an interface such as "List" rather than the implementation "ArrayList".(½åĞÑüÿÿÿÿ8‹ÙÏüø1
+’
+java:S1319T"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(ıô¥ñùÿÿÿÿ8‹ÙÏüø1
+‚
+java:S1319X"eThe type of "casts" should be an interface such as "List" rather than the implementation "ArrayList".(òÉº‘8‹ÙÏüø1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŒÑè›ùÿÿÿÿ8â„Ëüø1
+l	java:S116"PRename this field "Title" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã¨„æ8ä„Ëüø1
+w	java:S116"VRename this field "Description" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º¼Â­ùÿÿÿÿ8ä„Ëüø1
+r	java:S116	"QRename this field "Poster" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Îüæùÿÿÿÿ8Õİ–†ù1
+p	java:S116
+"ORename this field "Time" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıû“øùÿÿÿÿ8ä„Ëüø1
+n	java:S116"RRename this field "Trailer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸¬Ü›8ä„Ëüø1
+p	java:S116"ORename this field "Imdb" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó¡şÿÿÿÿ8ä„Ëüø1
+p	java:S116"ORename this field "Year" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öæ·”ùÿÿÿÿ8ä„Ëüø1
+l	java:S116"PRename this field "Genre" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àîëĞ8ä„Ëüø1
+l	java:S116"PRename this field "Casts" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì­®Õ8ÍºËüø1
+
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(”Ê¶Ğ8ßÎÍüø1

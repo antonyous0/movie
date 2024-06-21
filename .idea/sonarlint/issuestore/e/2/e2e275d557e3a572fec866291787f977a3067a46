@@ -1,0 +1,6 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ŒÑè›ùÿÿÿÿ8¹ØÁüø1
+m	java:S116"QRename this field "PicUrl" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“µ Ý8¿Ó‚ÿø1
+l	java:S116"PRename this field "Actor" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡¼ÑÕ8þåÂüø1
+£
+java:S1186	"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¶ªìûÿÿÿÿÿ8¢®Åüø1

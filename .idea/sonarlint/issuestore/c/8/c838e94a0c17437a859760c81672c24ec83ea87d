@@ -1,0 +1,5 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(íÛèøúÿÿÿÿ8³ßà™ÿ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”åÀßûÿÿÿÿ8ïÉŒêù1
+]
+java:S1128";Remove this unused import 'com.example.movie_app.Register'.(Ã¥ºƒûÿÿÿÿ8ôßà™ÿ1

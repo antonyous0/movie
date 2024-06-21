@@ -1,0 +1,15 @@
+
+J
+java:S1604G"(Make this anonymous inner class a lambda(ÿ·õóþÿÿÿÿ8¦ŽÏ½ƒ2
+J
+java:S1604O"(Make this anonymous inner class a lambda(ØýÝÑýÿÿÿÿ8§ŽÏ½ƒ2
+J
+java:S1604W"(Make this anonymous inner class a lambda(¦£í„úÿÿÿÿ8§ŽÏ½ƒ2
+ƒ
+java:S1450"aRemove the "returnToMainButton" field and declare it as a local variable in the relevant methods.(‚õ¾›ûÿÿÿÿ8ÏŽÏ½ƒ2
+
+java:S1450"cRemove the "updatePasswordButton" field and declare it as a local variable in the relevant methods.(ù‹ªl8ÏŽÏ½ƒ2
+„
+java:S1450"bRemove the "updateProfileButton" field and declare it as a local variable in the relevant methods.(¿ªŒ®ýÿÿÿÿ8ÐŽÏ½ƒ2
+N
+java:S1602s",Remove useless curly braces around statement(ŽÕÊ¾øÿÿÿÿ8ÝŽÏ½ƒ2

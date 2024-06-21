@@ -1,0 +1,16 @@
+
+E
+java:S16042"(Make this anonymous inner class a lambda(ô¼Á·8ÏÎõƒ2
+J
+java:S1604X"(Make this anonymous inner class a lambda(Êœüûÿÿÿÿ8ÏÎõƒ2
+J
+java:S1604c"(Make this anonymous inner class a lambda(’Ùûıÿÿÿÿ8ÏÎõƒ2
+F
+java:S1604Ô"(Make this anonymous inner class a lambda( »Í8ĞÎõƒ2
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”åÀßûÿÿÿÿ8ÑÎõƒ2
+L
+java:S18741"/Remove this use of "Handler"; it is deprecated.(«÷Ù˜8€Ïõƒ2
+]	java:S125D"<This block of commented-out lines of code should be removed.(É¥éìúÿÿÿÿ8†Ïõƒ2
+X	java:S125O"<This block of commented-out lines of code should be removed.(’ËØñ8ŠÏõƒ2
+f
+java:S3252Ğ"CUse static access with "android.view.View" for "OVER_SCROLL_NEVER".(™óí³úÿÿÿÿ8™Ïõƒ2
